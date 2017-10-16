@@ -15,3 +15,11 @@ To implement a basic credit card processing system to simulate a credit card tra
 
 ---
 The website is live to look at : https://ccp-system.herokuapp.com/
+
+[//]: # (To be added to the keys_dev.js file to enable them to work in development.)
+[//]: # (module.exports = {
+    stripePublishableKey: '',
+    stripeSecretKey: ''
+})
+[//]: # (After inserting the keys and cloning the project use npm install to get all dependencies to enable proper working of the project for any demo.)
+
