@@ -12,3 +12,6 @@ To implement a basic credit card processing system to simulate a credit card tra
 - Bootstrap CSS : https://getbootstrap.com/
 - Handlebars (View Engine)
 - Stripe API : https://stripe.com/
+
+---
+The website is live to look at : https://ccp-system.herokuapp.com/
